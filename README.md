@@ -6,6 +6,7 @@ Original Java lessons > [coding-campus-lessons](https://github.com/tiveritz/codi
 ## Executing
 Use the function calls at the bottom of each day file.
 
+## Content
 
 ###### September
 * day01
