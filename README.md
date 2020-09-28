@@ -1,6 +1,8 @@
 # coding-campus-lessons-in-python
 Check out all the training lessons of the part-time coding campus 2020/2021 translated to Python.
 
+Original Java lessons > [coding-campus-lessons](https://github.com/tiveritz/coding-campus-lessons)
+
 ## Executing
 Use the function calls at the bottom of each day file.
 
