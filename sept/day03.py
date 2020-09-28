@@ -26,6 +26,7 @@ def palindrom():
     word = "anna"
     print(word == word[::-1]) # Don't know what this is? -> list slicing
 
+
 # Hello World Lists
 def hello_world_list():
     my_strings = ["A", "U", "L", "O", "E", "D", "P", "A", "F", "B"]
