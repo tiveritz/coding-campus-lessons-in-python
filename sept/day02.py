@@ -94,8 +94,8 @@ def output_arrow():
             i -= 1
 
 
-# factorial()
 # my_sum()
+# factorial()
 # pi_approx()
 # square_with_letters()
 # output_arrow()
