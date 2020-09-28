@@ -25,11 +25,6 @@ Use the function calls at the bottom of each day file.
     * hello_world_list()
 
 * day04
-  * randNumArrBuilder()
-  * selectionSort()
-  * bubbleSort()
-
-* day05
     * selection_sort()
     * bubble_sort()
-
+    
