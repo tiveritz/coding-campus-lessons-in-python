@@ -37,9 +37,9 @@ Use the function calls at the bottom of each day file.
     * hello_world_recursion(5)
     * merge_sort()
 
-* day05
+* day07
     * leap_year()
 
 ###### October
-* day06
+* day08
     * sort_names_list()
