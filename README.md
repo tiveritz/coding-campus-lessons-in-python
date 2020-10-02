@@ -29,3 +29,17 @@ Use the function calls at the bottom of each day file.
     * selection_sort()
     * bubble_sort()
     
+* day05
+    * list_to_string()
+    * business_result()
+
+* day06
+    * hello_world_recursion(5)
+    * merge_sort()
+
+* day05
+    * leap_year()
+
+###### October
+* day06
+    * sort_names_list()
