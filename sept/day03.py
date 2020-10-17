@@ -37,9 +37,3 @@ def hello_world_list():
 
     for number in my_numbers:
         print(number)
-
-
-# simple_multiplication()
-# primes()
-# palindrom()
-# hello_world_list()

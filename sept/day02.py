@@ -92,10 +92,3 @@ def output_arrow():
             i += 1
         else:
             i -= 1
-
-
-# my_sum()
-# factorial()
-# pi_approx()
-# square_with_letters()
-# output_arrow()

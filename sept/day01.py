@@ -10,7 +10,3 @@ def hello_world():
 
     # The example with ++ and -- cannot be done in Python because there are no
     # such operators.
- 
-
- # hello_world()
- 

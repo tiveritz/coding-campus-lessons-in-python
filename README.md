@@ -9,8 +9,11 @@ Use the function calls at the bottom of each day file.
 ## Content
 
 ###### October
+* day10part01
+    * pascalWithCaching(6)
+    * pascal(6)
+
 * day09part01
-    * recursion_counter(4, 10)
     * function_call_from_other_file()
     * hello_world_functions()
 
@@ -20,6 +23,7 @@ Use the function calls at the bottom of each day file.
 ###### September
 * day07
     * leap_year()
+
 * day06
     * merge_sort()
     * hello_world_recursion(5)
@@ -31,6 +35,7 @@ Use the function calls at the bottom of each day file.
 * day04
     * bubble_sort()
     * selection_sort()
+    
 * day03
     * hello_world_list()
     * palindrom()

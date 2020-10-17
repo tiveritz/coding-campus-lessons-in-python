@@ -21,6 +21,3 @@ def hello_world_functions():
     my_array2 = [-2, -9, 5, 9, 5, 2, 4, -3, 8, -6, 4, 6]
     print(bubble_sort(my_array2))
     print(my_array2)
-
-
-# hello_world_functions()

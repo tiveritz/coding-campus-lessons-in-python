@@ -77,6 +77,3 @@ def merge_sort_algorithm(arr):
             k += 1
 
     return sorted_arr
-
-# hello_world_recursion(5)
-# merge_sort()

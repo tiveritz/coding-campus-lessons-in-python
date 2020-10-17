@@ -22,6 +22,3 @@ def leap_year():
         
         if (is_div_by_4 and (not is_div_by_100 or is_div_by_400)):
             print(year)
-
-
-# leap_year()

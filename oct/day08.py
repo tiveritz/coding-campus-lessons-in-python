@@ -132,6 +132,3 @@ def sort_names_list():
         i += 1
     
     print(names_double_sort)
-
-
-# sort_names_list()

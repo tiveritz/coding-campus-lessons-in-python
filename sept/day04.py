@@ -56,7 +56,3 @@ def bubble_sort():
     print(sort)
     print(compare_counter)
     print(swap_counter)
-
-
-# selection_sort()
-# bubble_sort()

@@ -107,6 +107,3 @@ def business_result():
         i += 1
 
     print("Second best result is " + str(second_best_result))
-
-# list_to_string()
-# business_result()
