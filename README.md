@@ -8,38 +8,42 @@ Use the function calls at the bottom of each day file.
 
 ## Content
 
+###### October
+* day09part01
+    * hello_world_functions()
+
+* day08
+    * sort_names_list()
+
 ###### September
+* day07
+    * leap_year()
+* day06
+    * merge_sort()
+    * hello_world_recursion(5)
+    
+* day05
+    * business_result()
+    * list_to_string()
+
+* day04
+    * bubble_sort()
+    * selection_sort()
+* day03
+    * hello_world_list()
+    * palindrom()
+    * primes()
+    * simple_multiplication()
+
+* day02
+    * output_arrow()
+    * square_with_letters()
+    * pi_approx()
+    * factorial()
+    * my_sum()
+
 * day01
     * helloWorld()
 
-* day02
-    * my_sum()
-    * factorial()
-    * pi_approx()
-    * square_with_letters()
-    * output_arrow()
 
-* day03
-    * simple_multiplication()
-    * primes()
-    * palindrom()
-    * hello_world_list()
 
-* day04
-    * selection_sort()
-    * bubble_sort()
-    
-* day05
-    * list_to_string()
-    * business_result()
-
-* day06
-    * hello_world_recursion(5)
-    * merge_sort()
-
-* day07
-    * leap_year()
-
-###### October
-* day08
-    * sort_names_list()
