@@ -10,6 +10,8 @@ Use the function calls at the bottom of each day file.
 
 ###### October
 * day09part01
+    * recursion_counter(4, 10)
+    * function_call_from_other_file()
     * hello_world_functions()
 
 * day08
