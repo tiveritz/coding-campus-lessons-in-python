@@ -4,7 +4,7 @@ Check out all the training lessons of the part-time coding campus 2020/2021 tran
 Original Java lessons > [coding-campus-lessons](https://github.com/tiveritz/coding-campus-lessons)
 
 ## Executing
-Use the function calls from the main.py to.
+Use the function calls from the main.py in the src folder.
 
 ## Content
 
