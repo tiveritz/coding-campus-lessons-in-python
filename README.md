@@ -4,15 +4,11 @@ Check out all the training lessons of the part-time coding campus 2020/2021 tran
 Original Java lessons > [coding-campus-lessons](https://github.com/tiveritz/coding-campus-lessons)
 
 ## Executing
-Use the function calls at the bottom of each day file.
+Use the function calls from the main.py to.
 
 ## Content
 
 ###### October
-* day10part01
-    * pascalWithCaching(6)
-    * pascal(6)
-
 * day09part01
     * function_call_from_other_file()
     * hello_world_functions()
