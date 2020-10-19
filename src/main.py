@@ -1,10 +1,20 @@
 from sept import day01, day02, day03, day04, day05, day06, day07
-from oct import day08, day09part01, day09part02
+from oct import day08, day09part01, day09part02, day10part01, day10part02, day11part01, day11part02
 
-# ---- day09part02
+
+# ---- day11
+# day11part02.check_iban()
+# day11part02.hello_world_string()
+# print(day11part01.recursion_faculty(5))
+# print(day11part01.faculty_without_recursion(5))
+
+# ---- day10
+# ay10part02.bowling()
+# day10part01.pascal(5)
+# day10part01.pascal_with_caching(5)
+
+# ---- day09
 # day09part02.recursion_counter(4, 10)
-
-# ---- day09part01
 # day09part01.hello_world_functions()
 
 # ---- day08
