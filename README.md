@@ -9,8 +9,20 @@ Use the function calls from the main.py in the src folder.
 ## Content
 
 ###### October
-* day09part01
-    * function_call_from_other_file()
+
+* day11
+    * check_iban()
+    * hello_world_string()
+    * recursion_faculty(5))
+    * faculty_without_recursion(5))
+
+* day10
+    * bowling()
+    * pascal(5)
+    * pascal_with_caching(5)
+
+* day09
+    * recursion_counter(4, 10)
     * hello_world_functions()
 
 * day08
