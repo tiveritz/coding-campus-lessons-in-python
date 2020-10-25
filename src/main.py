@@ -1,6 +1,23 @@
 from sept import day01, day02, day03, day04, day05, day06, day07
-from oct import day08, day09part01, day09part02, day10part01, day10part02, day11part01, day11part02
+from oct import day08, day09part01, day09part02, day10part01, day10part02, day11part01, day11part02, day12part01, day13, day14, day15, day16part01, day16part02
 
+
+# ---- day16
+# day16part02.random_sum()
+# day16part01.currency_calculator()
+
+# ---- day15
+# day15.random_array_print()
+
+# ---- day14
+# day14.text_analysis()
+
+# ---- day13
+# day13.string_repetition()
+
+# ---- day12
+# day12part01.manual_string_slicing("What up my glip glops", 11, 20)
+# day12part01.string_operations_repetition()
 
 # ---- day11
 # day11part02.check_iban()
