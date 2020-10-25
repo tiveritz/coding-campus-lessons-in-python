@@ -92,15 +92,15 @@ def hello_world_string():
         print('string.replace("Hello", "Good night"): ' + string.replace("Hello", "Good night"))
         print('string.replace("World", ""): ' + string.replace("World", ""))
 
-        textForReplace = "The resulting     pattern can then be used to create"
+        text_for_replace = "The resulting     pattern can then be used to create"
 
-        print(textForReplace)
-        print('textForReplace.replace(" ", "-"): ' + textForReplace.replace(" ", "-"))
+        print(text_for_replace)
+        print('text_for_replace.replace(" ", "-"): ' + text_for_replace.replace(" ", "-"))
 
         # To use regex in python the regex module has to be imported
-        print('re.sub("[ ]+", " ", textForReplace: ' + re.sub("[ ]+", " ", textForReplace))
-        print('re.sub("[AEIOUaeiou]", "#", textForReplace: ' + re.sub("[AEIOUaeiou]", "#", textForReplace))
-        print('re.sub("[a-z]", "#", textForReplace: ' + re.sub("[a-z]", "#", textForReplace))
+        print('re.sub("[ ]+", " ", text_for_replace: ' + re.sub("[ ]+", " ", text_for_replace))
+        print('re.sub("[AEIOUaeiou]", "#", text_for_replace: ' + re.sub("[AEIOUaeiou]", "#", text_for_replace))
+        print('re.sub("[a-z]", "#", text_for_replace: ' + re.sub("[a-z]", "#", text_for_replace))
 
         deutsche_sprache = "ÄÖÜäöüß"
 
