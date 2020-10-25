@@ -125,8 +125,9 @@ def sort_names_list():
 
     for i in range(len(names)):
         for j in range(len(names) - 1 - i):
-            if (len(names_double_sort[j]) <= len(names_double_sort[j + 1])):
-                if (names_double_sort[j] > names_double_sort[j + 1]):
+            if (len(names_double_sort[j]) < len(names_double_sort[j + 1])
+               or len(names_double_sort[j]) == len(names_double_sort[j + 1])
+               and (names_double_sort[j] > names_double_sort[j + 1])):
                     names_double_sort[j], names_double_sort[j + 1] = names_double_sort [j + 1], names_double_sort[j]
             j += 1
         i += 1
