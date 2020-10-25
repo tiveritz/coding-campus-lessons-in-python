@@ -10,6 +10,23 @@ Use the function calls from the main.py in the src folder.
 
 ###### October
 
+* day16
+    * day16part02.random_sum()
+    * day16part01.currency_calculator()
+
+* day15
+    * day15.random_array_print()
+
+* day14
+    * day14.text_analysis()
+
+* day13
+    * day13.string_repetition()
+
+* day12
+    * day12part01.manual_string_slicing("What up my glip glops", 11, 20)
+    * day12part01.string_operations_repetition()
+
 * day11
     * check_iban()
     * hello_world_string()
