@@ -1,5 +1,5 @@
 # coding-campus-lessons-in-python
-Check out all the training lessons of the part-time coding campus 2020/2021 translated to Python.
+Check out all the training lessons of the part-time coding campus 2020/2021 solved in Python.
 Note that some lessons or parts of lessons have to be solved differently in Python. For example
 there is no switch case and unary operators in Python. On the other hand there is no list slicing or
 list comprehension in Java.
