@@ -1,5 +1,7 @@
-from sept import day01, day02, day03, day04, day05, day06, day07
-from oct import day08, day09part01, day09part02, day10part01, day10part02, day11part01, day11part02, day12part01, day13, day14, day15, day16part01, day16part02, day17part01, day17part02
+# Important note: wildcard import (*) are bad, do not use that in production.
+# For the training sessions however I don't care
+from sept import *
+from oct import *
 
 
 # day17

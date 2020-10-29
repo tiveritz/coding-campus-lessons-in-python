@@ -1,0 +1,17 @@
+__all__ = [
+           "day08",
+           "day09part01",
+           "day09part02",
+           "day10part01",
+           "day10part02",
+           "day11part01",
+           "day11part02",
+           "day12part01",
+           "day13",
+           "day14",
+           "day15",
+           "day16part01",
+           "day16part02",
+           "day17part01",
+           "day17part02",
+           ]
