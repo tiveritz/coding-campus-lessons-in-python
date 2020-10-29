@@ -13,6 +13,10 @@ Use the function calls from the main.py in the src folder.
 
 ###### October
 
+* day17
+    * day17part02.round_floats()
+    * day17part01.random_repetition()
+
 * day16
     * day16part02.random_sum()
     * day16part01.currency_calculator()

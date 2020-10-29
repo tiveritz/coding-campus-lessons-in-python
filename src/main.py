@@ -1,6 +1,10 @@
 from sept import day01, day02, day03, day04, day05, day06, day07
-from oct import day08, day09part01, day09part02, day10part01, day10part02, day11part01, day11part02, day12part01, day13, day14, day15, day16part01, day16part02
+from oct import day08, day09part01, day09part02, day10part01, day10part02, day11part01, day11part02, day12part01, day13, day14, day15, day16part01, day16part02, day17part01, day17part02
 
+
+# day17
+# day17part02.round_floats()
+# day17part01.random_repetition()
 
 # ---- day16
 # day16part02.random_sum()
