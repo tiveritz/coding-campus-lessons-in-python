@@ -14,4 +14,5 @@ __all__ = [
            "day16part02",
            "day17part01",
            "day17part02",
+           "day17part03",
            ]

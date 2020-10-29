@@ -5,6 +5,7 @@ from oct import *
 
 
 # day17
+# day17part03.walking_guy()
 # day17part02.round_floats()
 # day17part01.random_repetition()
 
