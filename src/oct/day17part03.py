@@ -2,6 +2,11 @@ from time import sleep
 from random import randint
 
 
+# Write a console game that randomly moves a guy between two walls. If the guy
+# hits the wall, the game is over. Probabilities of movements are 30% left or
+# right, 40% stay
+# let the user choose the game width with a user input
+
 GUY = [" ö ", "/|\\", "/ \\"]
 
 def walking_guy():
