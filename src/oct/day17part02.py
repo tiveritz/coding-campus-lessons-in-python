@@ -1,4 +1,4 @@
-import math
+from math import floor, ceil
 
 
 def round_floats():
@@ -7,13 +7,13 @@ def round_floats():
     for f in floats:
         print(f, end = " ")
         print(round(f), end = " ")
-        print(math.floor(f), end = " ")
-        print(math.ceil(f), end = " ")
+        print(floor(f), end = " ")
+        print(ceil(f), end = " ")
         print()
 
     for f in floats:
         print(f, end = " ")
         print(round(f, 1), end = " ")
-        print(math.floor(f * 10) / 10, end = " ")
-        print(math.ceil(f * 10) / 10, end = " ")
+        print(floor(f * 10) / 10, end = " ")
+        print(ceil(f * 10) / 10, end = " ")
         print()

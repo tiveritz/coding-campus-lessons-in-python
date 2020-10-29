@@ -1,4 +1,4 @@
-import random
+from random import randint
 
 
 def random_sum():
@@ -10,7 +10,7 @@ def random_sum():
     looping = True
 
     while looping:
-        random_number = random.randint(10, 30)
+        random_number = randint(10, 30)
 
         if (random_number == 15 or random_number == 25):
             looping = False
