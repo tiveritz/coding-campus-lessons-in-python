@@ -13,6 +13,7 @@ Use the function calls from the main.py in the src folder.
 
 ###### October
 * day18
+    * day18part02.atm()
     * day18part01.function_repetition()
 
 * day17

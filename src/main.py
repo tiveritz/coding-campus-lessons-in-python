@@ -4,6 +4,7 @@ from sept import *
 from oct import *
 
 # day18
+# day18part02.atm()
 # day18part01.function_repetition()
 
 # day17
