@@ -2,6 +2,10 @@
 # For the training sessions however I don't care
 from sept import *
 from oct import *
+from nov import *
+
+# day19
+# day19part01.hello_world_tow_dimensional_array()
 
 # day18
 # day18part02.atm()
