@@ -12,6 +12,8 @@ Use the function calls from the main.py in the src folder.
 ## Content
 
 ###### October
+* day18
+    * day18part01.function_repetition()
 
 * day17
     * day17part04.hello_world_user_input()

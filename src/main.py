@@ -3,6 +3,8 @@
 from sept import *
 from oct import *
 
+# day18
+# day18part01.function_repetition()
 
 # day17
 # day17part04.hello_world_user_input()
