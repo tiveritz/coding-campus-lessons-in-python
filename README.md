@@ -13,6 +13,9 @@ Use the function calls from the main.py in the src folder.
 ## Content
 
 ###### November
+* day20
+    * day20part01.tic_tac_toe()
+
 * day19
     * day19part01.hello_world_two_dimensional_array()
 

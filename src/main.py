@@ -5,6 +5,7 @@ from oct import *
 from nov import *
 
 # day19
+day20part01.tic_tac_toe()
 # day19part01.hello_world_tow_dimensional_array()
 
 # day18
