@@ -13,6 +13,8 @@ Use the function calls from the main.py in the src folder.
 ## Content
 
 ###### November
+* day 20 day 21
+    * day20day21.canvasShapes()
 
 * day19
     * day19part02.tic_tac_toe()

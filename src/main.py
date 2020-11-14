@@ -4,8 +4,11 @@ from sept import *
 from oct import *
 from nov import *
 
+# day20 day21
+day20day21.canvas_shapes()
+
 # day19
-day19part02.tic_tac_toe()
+# day19part02.tic_tac_toe()
 # day19part01.hello_world_tow_dimensional_array()
 
 # day18
