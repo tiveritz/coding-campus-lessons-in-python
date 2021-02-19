@@ -9,6 +9,8 @@ Original Java lessons > [coding-campus-lessons](https://github.com/tiveritz/codi
 
 ## Executing
 Use the function calls from the main.py in the src folder.
+    * src/dcv -> Coding Campus Lessons
+    * src/own -> Own Training Sessions
 
 ## Content
 
